@@ -1,178 +1,178 @@
 {
-  "date": "2026-08-01",
+  "date": "2026-08-02",
   "list_key": "male_new",
   "list_name": "男频新书榜",
   "category_reads": [
     {
       "category": "都市脑洞",
-      "total_reads": 7398000,
-      "reads_str": "739.8万",
+      "total_reads": 6945000,
+      "reads_str": "694.5万",
       "book_count": 30,
       "max_reads": 824000,
-      "min_reads": 124000,
-      "avg_reads": 246600
-    },
-    {
-      "category": "男频衍生",
-      "total_reads": 4819000,
-      "reads_str": "481.9万",
-      "book_count": 30,
-      "max_reads": 411000,
-      "min_reads": 84000,
-      "avg_reads": 160633
+      "min_reads": 119000,
+      "avg_reads": 231500
     },
     {
       "category": "都市日常",
-      "total_reads": 4765000,
-      "reads_str": "476.5万",
+      "total_reads": 4876000,
+      "reads_str": "487.6万",
       "book_count": 30,
       "max_reads": 883000,
-      "min_reads": 59000,
-      "avg_reads": 158833
+      "min_reads": 66000,
+      "avg_reads": 162533
+    },
+    {
+      "category": "男频衍生",
+      "total_reads": 4817000,
+      "reads_str": "481.7万",
+      "book_count": 30,
+      "max_reads": 411000,
+      "min_reads": 99000,
+      "avg_reads": 160567
     },
     {
       "category": "动漫衍生",
-      "total_reads": 4690000,
-      "reads_str": "469.0万",
+      "total_reads": 4764000,
+      "reads_str": "476.4万",
       "book_count": 30,
       "max_reads": 357000,
-      "min_reads": 95000,
-      "avg_reads": 156333
+      "min_reads": 98000,
+      "avg_reads": 158800
     },
     {
       "category": "都市高武",
-      "total_reads": 4140000,
-      "reads_str": "414.0万",
+      "total_reads": 4162000,
+      "reads_str": "416.2万",
       "book_count": 30,
       "max_reads": 554000,
       "min_reads": 41000,
-      "avg_reads": 138000
+      "avg_reads": 138733
     },
     {
       "category": "玄幻脑洞",
-      "total_reads": 3491000,
-      "reads_str": "349.1万",
+      "total_reads": 3537000,
+      "reads_str": "353.7万",
       "book_count": 30,
       "max_reads": 513000,
-      "min_reads": 30000,
-      "avg_reads": 116367
+      "min_reads": 60000,
+      "avg_reads": 117900
     },
     {
       "category": "都市种田",
-      "total_reads": 2483000,
-      "reads_str": "248.3万",
+      "total_reads": 2498000,
+      "reads_str": "249.8万",
       "book_count": 30,
       "max_reads": 601000,
       "min_reads": 22000,
-      "avg_reads": 82767
+      "avg_reads": 83267
     },
     {
       "category": "东方仙侠",
-      "total_reads": 2298000,
-      "reads_str": "229.8万",
+      "total_reads": 2316000,
+      "reads_str": "231.6万",
       "book_count": 30,
       "max_reads": 261000,
-      "min_reads": 20000,
-      "avg_reads": 76600
+      "min_reads": 27000,
+      "avg_reads": 77200
     },
     {
       "category": "西方奇幻",
-      "total_reads": 2243000,
-      "reads_str": "224.3万",
+      "total_reads": 2261000,
+      "reads_str": "226.1万",
       "book_count": 30,
       "max_reads": 315000,
-      "min_reads": 25000,
-      "avg_reads": 74767
-    },
-    {
-      "category": "科幻末世",
-      "total_reads": 2169000,
-      "reads_str": "216.9万",
-      "book_count": 30,
-      "max_reads": 232000,
-      "min_reads": 32000,
-      "avg_reads": 72300
+      "min_reads": 28000,
+      "avg_reads": 75367
     },
     {
       "category": "历史脑洞",
-      "total_reads": 2122000,
-      "reads_str": "212.2万",
+      "total_reads": 2151000,
+      "reads_str": "215.1万",
       "book_count": 30,
       "max_reads": 181000,
-      "min_reads": 29000,
-      "avg_reads": 70733
+      "min_reads": 32000,
+      "avg_reads": 71700
+    },
+    {
+      "category": "科幻末世",
+      "total_reads": 2103000,
+      "reads_str": "210.3万",
+      "book_count": 30,
+      "max_reads": 232000,
+      "min_reads": 32000,
+      "avg_reads": 70100
     },
     {
       "category": "悬疑脑洞",
-      "total_reads": 1885000,
-      "reads_str": "188.5万",
+      "total_reads": 1917000,
+      "reads_str": "191.7万",
       "book_count": 30,
       "max_reads": 177000,
-      "min_reads": 20000,
-      "avg_reads": 62833
-    },
-    {
-      "category": "都市修真",
-      "total_reads": 1784000,
-      "reads_str": "178.4万",
-      "book_count": 30,
-      "max_reads": 282000,
-      "min_reads": 22000,
-      "avg_reads": 59467
+      "min_reads": 34000,
+      "avg_reads": 63900
     },
     {
       "category": "游戏体育",
-      "total_reads": 1725000,
-      "reads_str": "172.5万",
+      "total_reads": 1709000,
+      "reads_str": "170.9万",
       "book_count": 30,
       "max_reads": 189000,
-      "min_reads": 31000,
-      "avg_reads": 57500
+      "min_reads": 30000,
+      "avg_reads": 56967
     },
     {
       "category": "抗战谍战",
-      "total_reads": 1674000,
-      "reads_str": "167.4万",
+      "total_reads": 1567000,
+      "reads_str": "156.7万",
       "book_count": 30,
       "max_reads": 109000,
-      "min_reads": 27000,
-      "avg_reads": 55800
+      "min_reads": 23000,
+      "avg_reads": 52233
+    },
+    {
+      "category": "都市修真",
+      "total_reads": 1398000,
+      "reads_str": "139.8万",
+      "book_count": 30,
+      "max_reads": 119000,
+      "min_reads": 22000,
+      "avg_reads": 46600
     },
     {
       "category": "传统玄幻",
-      "total_reads": 1366000,
-      "reads_str": "136.6万",
+      "total_reads": 1348000,
+      "reads_str": "134.8万",
       "book_count": 30,
       "max_reads": 255000,
       "min_reads": 16000,
-      "avg_reads": 45533
+      "avg_reads": 44933
     },
     {
       "category": "历史古代",
-      "total_reads": 1280000,
-      "reads_str": "128.0万",
+      "total_reads": 1272000,
+      "reads_str": "127.2万",
       "book_count": 30,
       "max_reads": 119000,
       "min_reads": 21000,
-      "avg_reads": 42667
+      "avg_reads": 42400
     },
     {
       "category": "悬疑灵异",
-      "total_reads": 1238000,
-      "reads_str": "123.8万",
+      "total_reads": 1250000,
+      "reads_str": "125.0万",
       "book_count": 30,
       "max_reads": 250000,
       "min_reads": 10000,
-      "avg_reads": 41267
+      "avg_reads": 41667
     },
     {
       "category": "战神赘婿",
-      "total_reads": 393257,
-      "reads_str": "39.3万",
+      "total_reads": 390753,
+      "reads_str": "39.1万",
       "book_count": 30,
       "max_reads": 82000,
-      "min_reads": 2266,
-      "avg_reads": 13109
+      "min_reads": 2445,
+      "avg_reads": 13025
     }
   ],
   "top_books": [
@@ -239,14 +239,6 @@
       "reads": 454000.0,
       "reads_str": "45.4万",
       "url": "https://fanqienovel.com/page/7646327973087300670"
-    },
-    {
-      "title": "买卖词条，打造非凡俱乐部",
-      "author": "飞天神牛",
-      "category": "都市脑洞",
-      "reads": 451000.0,
-      "reads_str": "45.1万",
-      "url": "https://fanqienovel.com/page/7649259001011522622"
     },
     {
       "title": "四合院，哈军工副院，部下李云龙",
@@ -335,6 +327,14 @@
       "reads": 304000.0,
       "reads_str": "30.4万",
       "url": "https://fanqienovel.com/page/7643862585124588606"
+    },
+    {
+      "title": "领主：开局一金商店获得丰饶圣女",
+      "author": "咸鱼咕咕叫",
+      "category": "都市高武",
+      "reads": 284000.0,
+      "reads_str": "28.4万",
+      "url": "https://fanqienovel.com/page/7552521675737156633"
     }
   ],
   "total_categories": 19,

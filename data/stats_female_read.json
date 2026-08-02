@@ -1,43 +1,43 @@
 {
-  "date": "2026-08-01",
+  "date": "2026-08-02",
   "list_key": "female_read",
   "list_name": "女频阅读榜",
   "category_reads": [
     {
       "category": "豪门总裁",
-      "total_reads": 12213000,
-      "reads_str": "1221.3万",
+      "total_reads": 12173000,
+      "reads_str": "1217.3万",
       "book_count": 30,
       "max_reads": 1226000,
-      "min_reads": 231000,
-      "avg_reads": 407100
+      "min_reads": 234000,
+      "avg_reads": 405767
     },
     {
       "category": "玄幻言情",
-      "total_reads": 9633000,
-      "reads_str": "963.3万",
+      "total_reads": 9646000,
+      "reads_str": "964.6万",
       "book_count": 30,
       "max_reads": 1716000,
-      "min_reads": 149000,
-      "avg_reads": 321100
+      "min_reads": 159000,
+      "avg_reads": 321533
     },
     {
       "category": "年代",
-      "total_reads": 8352000,
-      "reads_str": "835.2万",
+      "total_reads": 8396000,
+      "reads_str": "839.6万",
       "book_count": 30,
       "max_reads": 573000,
-      "min_reads": 163000,
-      "avg_reads": 278400
+      "min_reads": 171000,
+      "avg_reads": 279867
     },
     {
       "category": "现言脑洞",
-      "total_reads": 8207000,
-      "reads_str": "820.7万",
+      "total_reads": 8250000,
+      "reads_str": "825.0万",
       "book_count": 30,
       "max_reads": 781000,
-      "min_reads": 156000,
-      "avg_reads": 273567
+      "min_reads": 161000,
+      "avg_reads": 275000
     },
     {
       "category": "青春甜宠",
@@ -50,12 +50,12 @@
     },
     {
       "category": "宫斗宅斗",
-      "total_reads": 7729000,
-      "reads_str": "772.9万",
+      "total_reads": 7710000,
+      "reads_str": "771.0万",
       "book_count": 30,
       "max_reads": 861000,
-      "min_reads": 157000,
-      "avg_reads": 257633
+      "min_reads": 138000,
+      "avg_reads": 257000
     },
     {
       "category": "游戏体育",
@@ -77,57 +77,57 @@
     },
     {
       "category": "古言脑洞",
-      "total_reads": 5381000,
-      "reads_str": "538.1万",
+      "total_reads": 5387000,
+      "reads_str": "538.7万",
       "book_count": 30,
       "max_reads": 441000,
-      "min_reads": 98000,
-      "avg_reads": 179367
+      "min_reads": 100000,
+      "avg_reads": 179567
     },
     {
       "category": "职场婚恋",
-      "total_reads": 5282000,
-      "reads_str": "528.2万",
+      "total_reads": 5287000,
+      "reads_str": "528.7万",
       "book_count": 30,
       "max_reads": 878000,
-      "min_reads": 64000,
-      "avg_reads": 176067
+      "min_reads": 69000,
+      "avg_reads": 176233
     },
     {
       "category": "快穿",
-      "total_reads": 4833000,
-      "reads_str": "483.3万",
+      "total_reads": 4896000,
+      "reads_str": "489.6万",
       "book_count": 30,
       "max_reads": 227000,
       "min_reads": 113000,
-      "avg_reads": 161100
+      "avg_reads": 163200
     },
     {
       "category": "星光璀璨",
-      "total_reads": 4769000,
-      "reads_str": "476.9万",
+      "total_reads": 4787000,
+      "reads_str": "478.7万",
       "book_count": 30,
       "max_reads": 1111000,
-      "min_reads": 47000,
-      "avg_reads": 158967
+      "min_reads": 61000,
+      "avg_reads": 159567
     },
     {
       "category": "科幻末世",
-      "total_reads": 4657000,
-      "reads_str": "465.7万",
+      "total_reads": 4665000,
+      "reads_str": "466.5万",
       "book_count": 30,
       "max_reads": 330000,
       "min_reads": 74000,
-      "avg_reads": 155233
+      "avg_reads": 155500
     },
     {
       "category": "悬疑脑洞",
-      "total_reads": 4452000,
-      "reads_str": "445.2万",
+      "total_reads": 4456000,
+      "reads_str": "445.6万",
       "book_count": 30,
       "max_reads": 819000,
-      "min_reads": 51000,
-      "avg_reads": 148400
+      "min_reads": 53000,
+      "avg_reads": 148533
     },
     {
       "category": "古风世情",
@@ -149,12 +149,12 @@
     },
     {
       "category": "女频衍生",
-      "total_reads": 1964000,
-      "reads_str": "196.4万",
+      "total_reads": 1972000,
+      "reads_str": "197.2万",
       "book_count": 30,
       "max_reads": 124000,
-      "min_reads": 42000,
-      "avg_reads": 65467
+      "min_reads": 49000,
+      "avg_reads": 65733
     },
     {
       "category": "民国言情",

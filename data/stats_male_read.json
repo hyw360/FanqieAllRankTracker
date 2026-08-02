@@ -1,16 +1,16 @@
 {
-  "date": "2026-08-01",
+  "date": "2026-08-02",
   "list_key": "male_read",
   "list_name": "男频阅读榜",
   "category_reads": [
     {
       "category": "都市高武",
-      "total_reads": 21464000,
-      "reads_str": "2146.4万",
+      "total_reads": 21495000,
+      "reads_str": "2149.5万",
       "book_count": 30,
       "max_reads": 2760000,
       "min_reads": 299000,
-      "avg_reads": 715467
+      "avg_reads": 716500
     },
     {
       "category": "玄幻脑洞",
@@ -41,30 +41,30 @@
     },
     {
       "category": "都市脑洞",
-      "total_reads": 12171000,
-      "reads_str": "1217.1万",
+      "total_reads": 12354000,
+      "reads_str": "1235.4万",
       "book_count": 30,
       "max_reads": 953000,
       "min_reads": 264000,
-      "avg_reads": 405700
+      "avg_reads": 411800
     },
     {
       "category": "历史古代",
-      "total_reads": 10065000,
-      "reads_str": "1006.5万",
+      "total_reads": 10098000,
+      "reads_str": "1009.8万",
       "book_count": 30,
       "max_reads": 809000,
-      "min_reads": 157000,
-      "avg_reads": 335500
+      "min_reads": 173000,
+      "avg_reads": 336600
     },
     {
       "category": "传统玄幻",
-      "total_reads": 9355000,
-      "reads_str": "935.5万",
+      "total_reads": 9374000,
+      "reads_str": "937.4万",
       "book_count": 30,
       "max_reads": 1346000,
-      "min_reads": 143000,
-      "avg_reads": 311833
+      "min_reads": 152000,
+      "avg_reads": 312467
     },
     {
       "category": "东方仙侠",
@@ -76,6 +76,15 @@
       "avg_reads": 260767
     },
     {
+      "category": "都市修真",
+      "total_reads": 6993000,
+      "reads_str": "699.3万",
+      "book_count": 30,
+      "max_reads": 574000,
+      "min_reads": 131000,
+      "avg_reads": 233100
+    },
+    {
       "category": "历史脑洞",
       "total_reads": 6904000,
       "reads_str": "690.4万",
@@ -85,40 +94,40 @@
       "avg_reads": 230133
     },
     {
-      "category": "都市修真",
-      "total_reads": 6797000,
-      "reads_str": "679.7万",
-      "book_count": 30,
-      "max_reads": 574000,
-      "min_reads": 109000,
-      "avg_reads": 226567
-    },
-    {
       "category": "悬疑灵异",
-      "total_reads": 6523000,
-      "reads_str": "652.3万",
+      "total_reads": 6534000,
+      "reads_str": "653.4万",
       "book_count": 30,
       "max_reads": 856000,
       "min_reads": 94000,
-      "avg_reads": 217433
+      "avg_reads": 217800
     },
     {
       "category": "科幻末世",
-      "total_reads": 6371000,
-      "reads_str": "637.1万",
+      "total_reads": 6406000,
+      "reads_str": "640.6万",
       "book_count": 30,
       "max_reads": 771000,
-      "min_reads": 108000,
-      "avg_reads": 212367
+      "min_reads": 123000,
+      "avg_reads": 213533
     },
     {
       "category": "男频衍生",
-      "total_reads": 6314000,
-      "reads_str": "631.4万",
+      "total_reads": 6378000,
+      "reads_str": "637.8万",
       "book_count": 30,
       "max_reads": 506000,
-      "min_reads": 140000,
-      "avg_reads": 210467
+      "min_reads": 141000,
+      "avg_reads": 212600
+    },
+    {
+      "category": "都市种田",
+      "total_reads": 5850000,
+      "reads_str": "585.0万",
+      "book_count": 30,
+      "max_reads": 403000,
+      "min_reads": 146000,
+      "avg_reads": 195000
     },
     {
       "category": "动漫衍生",
@@ -130,22 +139,13 @@
       "avg_reads": 194800
     },
     {
-      "category": "都市种田",
-      "total_reads": 5791000,
-      "reads_str": "579.1万",
-      "book_count": 30,
-      "max_reads": 403000,
-      "min_reads": 140000,
-      "avg_reads": 193033
-    },
-    {
       "category": "游戏体育",
-      "total_reads": 5768000,
-      "reads_str": "576.8万",
+      "total_reads": 5773000,
+      "reads_str": "577.3万",
       "book_count": 30,
       "max_reads": 486000,
       "min_reads": 115000,
-      "avg_reads": 192267
+      "avg_reads": 192433
     },
     {
       "category": "抗战谍战",
@@ -158,21 +158,21 @@
     },
     {
       "category": "西方奇幻",
-      "total_reads": 4281000,
-      "reads_str": "428.1万",
+      "total_reads": 4289000,
+      "reads_str": "428.9万",
       "book_count": 30,
       "max_reads": 448000,
-      "min_reads": 78000,
-      "avg_reads": 142700
+      "min_reads": 83000,
+      "avg_reads": 142967
     },
     {
       "category": "战神赘婿",
-      "total_reads": 2790000,
-      "reads_str": "279.0万",
+      "total_reads": 2794000,
+      "reads_str": "279.4万",
       "book_count": 30,
       "max_reads": 202000,
-      "min_reads": 42000,
-      "avg_reads": 93000
+      "min_reads": 46000,
+      "avg_reads": 93133
     }
   ],
   "top_books": [
