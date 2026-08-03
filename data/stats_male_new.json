@@ -1,178 +1,178 @@
 {
-  "date": "2026-08-02",
+  "date": "2026-08-03",
   "list_key": "male_new",
   "list_name": "男频新书榜",
   "category_reads": [
     {
       "category": "都市脑洞",
-      "total_reads": 6945000,
-      "reads_str": "694.5万",
+      "total_reads": 7215000,
+      "reads_str": "721.5万",
       "book_count": 30,
-      "max_reads": 824000,
-      "min_reads": 119000,
-      "avg_reads": 231500
+      "max_reads": 792000,
+      "min_reads": 111000,
+      "avg_reads": 240500
     },
     {
       "category": "都市日常",
-      "total_reads": 4876000,
-      "reads_str": "487.6万",
+      "total_reads": 5123000,
+      "reads_str": "512.3万",
       "book_count": 30,
-      "max_reads": 883000,
-      "min_reads": 66000,
-      "avg_reads": 162533
+      "max_reads": 904000,
+      "min_reads": 55000,
+      "avg_reads": 170767
     },
     {
       "category": "男频衍生",
-      "total_reads": 4817000,
-      "reads_str": "481.7万",
+      "total_reads": 4964000,
+      "reads_str": "496.4万",
       "book_count": 30,
-      "max_reads": 411000,
-      "min_reads": 99000,
-      "avg_reads": 160567
+      "max_reads": 360000,
+      "min_reads": 107000,
+      "avg_reads": 165467
     },
     {
       "category": "动漫衍生",
-      "total_reads": 4764000,
-      "reads_str": "476.4万",
+      "total_reads": 4795000,
+      "reads_str": "479.5万",
       "book_count": 30,
-      "max_reads": 357000,
-      "min_reads": 98000,
-      "avg_reads": 158800
+      "max_reads": 390000,
+      "min_reads": 90000,
+      "avg_reads": 159833
     },
     {
       "category": "都市高武",
-      "total_reads": 4162000,
-      "reads_str": "416.2万",
+      "total_reads": 4276000,
+      "reads_str": "427.6万",
       "book_count": 30,
-      "max_reads": 554000,
-      "min_reads": 41000,
-      "avg_reads": 138733
+      "max_reads": 557000,
+      "min_reads": 60000,
+      "avg_reads": 142533
     },
     {
       "category": "玄幻脑洞",
-      "total_reads": 3537000,
-      "reads_str": "353.7万",
+      "total_reads": 3786000,
+      "reads_str": "378.6万",
       "book_count": 30,
-      "max_reads": 513000,
-      "min_reads": 60000,
-      "avg_reads": 117900
+      "max_reads": 618000,
+      "min_reads": 48000,
+      "avg_reads": 126200
     },
     {
       "category": "都市种田",
-      "total_reads": 2498000,
-      "reads_str": "249.8万",
+      "total_reads": 2462000,
+      "reads_str": "246.2万",
       "book_count": 30,
-      "max_reads": 601000,
-      "min_reads": 22000,
-      "avg_reads": 83267
+      "max_reads": 594000,
+      "min_reads": 12000,
+      "avg_reads": 82067
     },
     {
       "category": "东方仙侠",
-      "total_reads": 2316000,
-      "reads_str": "231.6万",
+      "total_reads": 2300000,
+      "reads_str": "230.0万",
       "book_count": 30,
-      "max_reads": 261000,
-      "min_reads": 27000,
-      "avg_reads": 77200
+      "max_reads": 286000,
+      "min_reads": 20000,
+      "avg_reads": 76667
     },
     {
       "category": "西方奇幻",
-      "total_reads": 2261000,
-      "reads_str": "226.1万",
+      "total_reads": 2230000,
+      "reads_str": "223.0万",
       "book_count": 30,
-      "max_reads": 315000,
-      "min_reads": 28000,
-      "avg_reads": 75367
+      "max_reads": 316000,
+      "min_reads": 25000,
+      "avg_reads": 74333
     },
     {
       "category": "历史脑洞",
-      "total_reads": 2151000,
-      "reads_str": "215.1万",
+      "total_reads": 2221000,
+      "reads_str": "222.1万",
       "book_count": 30,
-      "max_reads": 181000,
-      "min_reads": 32000,
-      "avg_reads": 71700
+      "max_reads": 186000,
+      "min_reads": 28000,
+      "avg_reads": 74033
     },
     {
       "category": "科幻末世",
-      "total_reads": 2103000,
-      "reads_str": "210.3万",
+      "total_reads": 2183000,
+      "reads_str": "218.3万",
       "book_count": 30,
-      "max_reads": 232000,
-      "min_reads": 32000,
-      "avg_reads": 70100
+      "max_reads": 247000,
+      "min_reads": 28000,
+      "avg_reads": 72767
     },
     {
       "category": "悬疑脑洞",
-      "total_reads": 1917000,
-      "reads_str": "191.7万",
+      "total_reads": 1975000,
+      "reads_str": "197.5万",
       "book_count": 30,
-      "max_reads": 177000,
-      "min_reads": 34000,
-      "avg_reads": 63900
+      "max_reads": 210000,
+      "min_reads": 27000,
+      "avg_reads": 65833
     },
     {
       "category": "游戏体育",
-      "total_reads": 1709000,
-      "reads_str": "170.9万",
+      "total_reads": 1794000,
+      "reads_str": "179.4万",
       "book_count": 30,
-      "max_reads": 189000,
-      "min_reads": 30000,
-      "avg_reads": 56967
+      "max_reads": 214000,
+      "min_reads": 13000,
+      "avg_reads": 59800
     },
     {
       "category": "抗战谍战",
-      "total_reads": 1567000,
-      "reads_str": "156.7万",
+      "total_reads": 1539000,
+      "reads_str": "153.9万",
       "book_count": 30,
-      "max_reads": 109000,
+      "max_reads": 110000,
       "min_reads": 23000,
-      "avg_reads": 52233
+      "avg_reads": 51300
     },
     {
       "category": "都市修真",
-      "total_reads": 1398000,
-      "reads_str": "139.8万",
+      "total_reads": 1452000,
+      "reads_str": "145.2万",
       "book_count": 30,
-      "max_reads": 119000,
-      "min_reads": 22000,
-      "avg_reads": 46600
+      "max_reads": 129000,
+      "min_reads": 16000,
+      "avg_reads": 48400
     },
     {
       "category": "传统玄幻",
-      "total_reads": 1348000,
-      "reads_str": "134.8万",
+      "total_reads": 1412000,
+      "reads_str": "141.2万",
       "book_count": 30,
-      "max_reads": 255000,
-      "min_reads": 16000,
-      "avg_reads": 44933
-    },
-    {
-      "category": "历史古代",
-      "total_reads": 1272000,
-      "reads_str": "127.2万",
-      "book_count": 30,
-      "max_reads": 119000,
-      "min_reads": 21000,
-      "avg_reads": 42400
+      "max_reads": 265000,
+      "min_reads": 12000,
+      "avg_reads": 47067
     },
     {
       "category": "悬疑灵异",
-      "total_reads": 1250000,
-      "reads_str": "125.0万",
+      "total_reads": 1373000,
+      "reads_str": "137.3万",
       "book_count": 30,
-      "max_reads": 250000,
-      "min_reads": 10000,
-      "avg_reads": 41667
+      "max_reads": 277000,
+      "min_reads": 15000,
+      "avg_reads": 45767
+    },
+    {
+      "category": "历史古代",
+      "total_reads": 1331000,
+      "reads_str": "133.1万",
+      "book_count": 30,
+      "max_reads": 102000,
+      "min_reads": 13000,
+      "avg_reads": 44367
     },
     {
       "category": "战神赘婿",
-      "total_reads": 390753,
-      "reads_str": "39.1万",
+      "total_reads": 451074,
+      "reads_str": "45.1万",
       "book_count": 30,
-      "max_reads": 82000,
-      "min_reads": 2445,
-      "avg_reads": 13025
+      "max_reads": 138000,
+      "min_reads": 2401,
+      "avg_reads": 15036
     }
   ],
   "top_books": [
@@ -180,136 +180,152 @@
       "title": "穿书反派，把阴湿女主养成病娇了",
       "author": "二次元的猫",
       "category": "都市日常",
-      "reads": 883000.0,
-      "reads_str": "88.3万",
+      "reads": 904000.0,
+      "reads_str": "90.4万",
       "url": "https://fanqienovel.com/page/7645556324868049945"
     },
     {
       "title": "高考出分前一晚，兑换北大录取书",
       "author": "西瓜要涨价",
       "category": "都市脑洞",
-      "reads": 824000.0,
-      "reads_str": "82.4万",
+      "reads": 792000.0,
+      "reads_str": "79.2万",
       "url": "https://fanqienovel.com/page/7650159645603941438"
-    },
-    {
-      "title": "重生后，姐姐非要嫁给我",
-      "author": "城区哲学家",
-      "category": "都市种田",
-      "reads": 601000.0,
-      "reads_str": "60.1万",
-      "url": "https://fanqienovel.com/page/7654057366010219582"
-    },
-    {
-      "title": "我都宇宙之主了，你们还在地球？",
-      "author": "吒牛",
-      "category": "都市高武",
-      "reads": 554000.0,
-      "reads_str": "55.4万",
-      "url": "https://fanqienovel.com/page/7644040936980220953"
     },
     {
       "title": "刚证道混沌天帝，让我身化禁区？",
       "author": "钰珏玉予",
       "category": "玄幻脑洞",
-      "reads": 513000.0,
-      "reads_str": "51.3万",
+      "reads": 618000.0,
+      "reads_str": "61.8万",
       "url": "https://fanqienovel.com/page/7656783633486711870"
+    },
+    {
+      "title": "重生后，姐姐非要嫁给我",
+      "author": "城区哲学家",
+      "category": "都市种田",
+      "reads": 594000.0,
+      "reads_str": "59.4万",
+      "url": "https://fanqienovel.com/page/7654057366010219582"
     },
     {
       "title": "实习教出金牌班，家长要换班主任",
       "author": "碧水红潮",
       "category": "都市脑洞",
-      "reads": 496000.0,
-      "reads_str": "49.6万",
+      "reads": 587000.0,
+      "reads_str": "58.7万",
       "url": "https://fanqienovel.com/page/7649016386907278361"
-    },
-    {
-      "title": "三棍打散兄妹情，我家兄长不当人",
-      "author": "往事如烟",
-      "category": "都市脑洞",
-      "reads": 457000.0,
-      "reads_str": "45.7万",
-      "url": "https://fanqienovel.com/page/7641618871547350040"
     },
     {
       "title": "公安局长之扫黑风暴",
       "author": "南至",
       "category": "都市日常",
-      "reads": 454000.0,
-      "reads_str": "45.4万",
+      "reads": 564000.0,
+      "reads_str": "56.4万",
       "url": "https://fanqienovel.com/page/7646327973087300670"
     },
     {
-      "title": "四合院，哈军工副院，部下李云龙",
-      "author": "五月五发发",
-      "category": "男频衍生",
-      "reads": 411000.0,
-      "reads_str": "41.1万",
-      "url": "https://fanqienovel.com/page/7657868783679196184"
+      "title": "我都宇宙之主了，你们还在地球？",
+      "author": "吒牛",
+      "category": "都市高武",
+      "reads": 557000.0,
+      "reads_str": "55.7万",
+      "url": "https://fanqienovel.com/page/7644040936980220953"
     },
     {
-      "title": "有钱有势回县城，开局睡了白月光",
-      "author": "修景",
-      "category": "都市日常",
-      "reads": 387000.0,
-      "reads_str": "38.7万",
-      "url": "https://fanqienovel.com/page/7657189220749937726"
+      "title": "三棍打散兄妹情，我家兄长不当人",
+      "author": "往事如烟",
+      "category": "都市脑洞",
+      "reads": 472000.0,
+      "reads_str": "47.2万",
+      "url": "https://fanqienovel.com/page/7641618871547350040"
     },
     {
       "title": "系统想害我，我选择上交国家",
       "author": "超级吹宝泡泡糖",
       "category": "都市脑洞",
-      "reads": 372000.0,
-      "reads_str": "37.2万",
+      "reads": 412000.0,
+      "reads_str": "41.2万",
       "url": "https://fanqienovel.com/page/7650499837250522137"
     },
     {
       "title": "穿越刘备，死后和我说这是型月？",
       "author": "迦勒底人理保护协会",
       "category": "动漫衍生",
-      "reads": 357000.0,
-      "reads_str": "35.7万",
+      "reads": 390000.0,
+      "reads_str": "39万",
       "url": "https://fanqienovel.com/page/7647013790642359358"
     },
     {
-      "title": "东北振兴，千万员工BUFF拉满",
-      "author": "新秋十三",
-      "category": "都市种田",
-      "reads": 337000.0,
-      "reads_str": "33.7万",
-      "url": "https://fanqienovel.com/page/7652561655762521113"
+      "title": "有钱有势回县城，开局睡了白月光",
+      "author": "修景",
+      "category": "都市日常",
+      "reads": 365000.0,
+      "reads_str": "36.5万",
+      "url": "https://fanqienovel.com/page/7657189220749937726"
+    },
+    {
+      "title": "四合院，哈军工副院，部下李云龙",
+      "author": "五月五发发",
+      "category": "男频衍生",
+      "reads": 360000.0,
+      "reads_str": "36万",
+      "url": "https://fanqienovel.com/page/7657868783679196184"
     },
     {
       "title": "神豪太青涩，校花闺蜜团只好倒追",
       "author": "来当金番了",
       "category": "都市脑洞",
-      "reads": 326000.0,
-      "reads_str": "32.6万",
+      "reads": 350000.0,
+      "reads_str": "35万",
       "url": "https://fanqienovel.com/page/7643829008735407129"
     },
     {
-      "title": "崩铁，穿越成怪兽，被爻光买回家",
-      "author": "被关的lunatic",
-      "category": "动漫衍生",
-      "reads": 325000.0,
-      "reads_str": "32.5万",
-      "url": "https://fanqienovel.com/page/7654917752603298840"
+      "title": "重生后，成了妹妹的专属爱物",
+      "author": "清清籽衿",
+      "category": "都市脑洞",
+      "reads": 337000.0,
+      "reads_str": "33.7万",
+      "url": "https://fanqienovel.com/page/7643862585124588606"
+    },
+    {
+      "title": "东北振兴，千万员工BUFF拉满",
+      "author": "新秋十三",
+      "category": "都市种田",
+      "reads": 333000.0,
+      "reads_str": "33.3万",
+      "url": "https://fanqienovel.com/page/7652561655762521113"
     },
     {
       "title": "让你当众写检讨，你作洛神赋？",
       "author": "肤白貌美没有腿",
       "category": "都市脑洞",
-      "reads": 321000.0,
-      "reads_str": "32.1万",
+      "reads": 329000.0,
+      "reads_str": "32.9万",
       "url": "https://fanqienovel.com/page/7657401918917987352"
+    },
+    {
+      "title": "崩铁，穿越成怪兽，被爻光买回家",
+      "author": "被关的lunatic",
+      "category": "动漫衍生",
+      "reads": 326000.0,
+      "reads_str": "32.6万",
+      "url": "https://fanqienovel.com/page/7654917752603298840"
+    },
+    {
+      "title": "名义：开局我举报我自己",
+      "author": "诸天殿的天者",
+      "category": "男频衍生",
+      "reads": 325000.0,
+      "reads_str": "32.5万",
+      "url": "https://fanqienovel.com/page/7650130776280796185"
     },
     {
       "title": "魔王叫我小同志，那就是世界错了",
       "author": "风蝉鸣",
       "category": "西方奇幻",
-      "reads": 315000.0,
-      "reads_str": "31.5万",
+      "reads": 316000.0,
+      "reads_str": "31.6万",
       "url": "https://fanqienovel.com/page/7657525266855513112"
     },
     {
@@ -319,22 +335,6 @@
       "reads": 311000.0,
       "reads_str": "31.1万",
       "url": "https://fanqienovel.com/page/7653392559628094488"
-    },
-    {
-      "title": "重生后，成了妹妹的专属爱物",
-      "author": "清清籽衿",
-      "category": "都市脑洞",
-      "reads": 304000.0,
-      "reads_str": "30.4万",
-      "url": "https://fanqienovel.com/page/7643862585124588606"
-    },
-    {
-      "title": "领主：开局一金商店获得丰饶圣女",
-      "author": "咸鱼咕咕叫",
-      "category": "都市高武",
-      "reads": 284000.0,
-      "reads_str": "28.4万",
-      "url": "https://fanqienovel.com/page/7552521675737156633"
     }
   ],
   "total_categories": 19,
