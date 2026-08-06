@@ -745,11 +745,18 @@ input:focus-visible {
     -webkit-line-clamp: 3;
 }
 
-.book-rank {
+.book-rank-wrap {
     position: absolute;
     left: 10px;
     top: 10px;
     z-index: 10;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
+
+.book-rank {
+    position: relative;
     min-width: 32px;
     padding: 4px 8px;
     border: 1px solid rgba(255, 255, 255, 0.42);
@@ -780,10 +787,7 @@ input:focus-visible {
 }
 
 .book-change {
-    position: absolute;
-    right: 10px;
-    top: 10px;
-    z-index: 10;
+    position: relative;
     padding: 4px 8px;
     border-radius: var(--radius-md);
     background: rgba(255, 255, 255, 0.86);
@@ -793,6 +797,7 @@ input:focus-visible {
     font-weight: 800;
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
+    white-space: nowrap;
 }
 
 .book-change.up {

@@ -514,8 +514,10 @@ document.addEventListener('DOMContentLoaded', () => {
                 : `<div class="book-cover"><div class="no-cover"><i class="ti ti-photo-off"></i></div></div>`;
 
             card.innerHTML = `
-                <span class="book-rank ${rankCls}">${rank}</span>
-                ${changeHtml}
+                <div class="book-rank-wrap">
+                    <span class="book-rank ${rankCls}">${rank}</span>
+                    ${changeHtml}
+                </div>
                 ${coverHtml}
                 <div class="book-info">
                     <h3 class="book-title" title="${escapeAttr(book.title)}">${escapeHtml(book.title)}</h3>
