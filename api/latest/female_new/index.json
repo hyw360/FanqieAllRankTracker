@@ -1,12 +1,12 @@
 {
-  "date": "2026-09-19",
-  "prev_date": "2026-09-18",
+  "date": "2026-09-20",
+  "prev_date": "2026-09-19",
   "types": [
     {
       "type": "all",
       "url": "api/latest/female_new/all.json",
       "category_count": 18,
-      "book_count": 529
+      "book_count": 538
     },
     {
       "type": "古风世情",
@@ -81,12 +81,12 @@
     {
       "type": "女频悬疑",
       "url": "api/latest/female_new/%E5%A5%B3%E9%A2%91%E6%82%AC%E7%96%91.json",
-      "book_count": 30
+      "book_count": 29
     },
     {
       "type": "职场婚恋",
       "url": "api/latest/female_new/%E8%81%8C%E5%9C%BA%E5%A9%9A%E6%81%8B.json",
-      "book_count": 20
+      "book_count": 30
     },
     {
       "type": "豪门总裁",
